@@ -152,7 +152,7 @@ class Inline:
             rows += [
                 [
                     self.ikb(
-                        text=lang["Owner"],
+                        text=lang["owner"],
                         url="https://t.me/asepvoid",
                     )
                 ]
