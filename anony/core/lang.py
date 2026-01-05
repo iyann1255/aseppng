@@ -25,7 +25,6 @@ lang_codes = {
     "ru": "Russian",
     "zh": "Chinese",
     "id": "Indonesia",
-    "tx": "Toxic",
 }
 
 
