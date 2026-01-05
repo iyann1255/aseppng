@@ -24,7 +24,7 @@ lang_codes = {
     "pt": "Portuguese",
     "ru": "Russian",
     "zh": "Chinese",
-    "id": "Indonesia",
+    "id": "indonesia",
 }
 
 
